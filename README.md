@@ -9,9 +9,7 @@
 npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH
 ```
 
-If Facing Problem Join Discord Server For Help And Subscribe To Our Channel
-
-### 2. Create the .replit file to execute node from the shell instead of the console, and insert this in that file.
+### 2. Create The .replit file to execute node from the shell instead of the console, and insert this in that file.
 ```
 run="npm start"
 ```
@@ -23,7 +21,7 @@ run="npm start"
 }
 ```
 
-### 4. Install Discord.JS v13, Copy this given code and paste it in your shell or console, if it doesn't work in console, then paste it in shell
+### 4.  Install Discord.JS v13, Copy This Given Codes And Paste In Shell or Console, If It Doesn't Work In Console, Paste In Shell
 ```
 npm i discord.js
 ```
@@ -33,4 +31,4 @@ npm i discord.js
 - [DISCORD](https://discord.gg/MaHcrFHbdW)
 
 - `Dont Forget To Follow, Subscribe, And Join Our Server`
-- `If you need help, join to our server and go to the help channel`
+- `If Facing Problem Join Discord Server For Help And Subscribe To Our Channel`

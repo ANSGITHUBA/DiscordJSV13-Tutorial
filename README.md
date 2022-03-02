@@ -1,8 +1,8 @@
-<h1 align='center'>  </h1> 
+<h1 align='center'> DISCORD.JS V13, Operate NodeJS v16, BY GTR-Pro </h1> 
 
-# If You Haven't Subscribe Us Please Its Our Request, Subscribe Us
+### If you are not subscribed to the channel, Subscribe Now, I Will Be Very Happy
 
-## DiscordJS v13 Require NodeJS v16 To Install It In Follow The Steps
+### DiscordJS v13 Require NodeJS v16 To Install It In Follow The Steps
 
 ### 1. To Install NodeJs v16 Copy This Given Code And Paste In Shell Of Replit.
 ```
@@ -23,14 +23,14 @@ run="npm start"
 }
 ```
 
-### 4. Install DiscordJS v13
+### 4. Install Discord.JS v13, Copy this given code and paste it in your shell or console, if it doesn't work in console, then paste it in shell
 ```
 npm i discord.js
 ```
 
 ### You Are Ready To Use DiscordJS v13, And Now You Can Follow Our Episodes/Video On Our Youtube Channel
-- [YOUTUBE](https://www.youtube.com/flamequard)
-- [DISCORD](https://discord.gg/TvjrWtEuyP)
-- [INSTAGRAM](https://www.instagram.com/flamequard)
+- [YOUTUBE](https://youtube.com/channel/UCFO6VKgiaz2dzhem3fm3wBw)
+- [DISCORD](https://discord.gg/MaHcrFHbdW)
 
 - `Dont Forget To Follow, Subscribe, And Join Our Server`
+- `If you need help, join to our server and go to the help channel`
